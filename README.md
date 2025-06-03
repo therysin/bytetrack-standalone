@@ -1,3 +1,8 @@
+
+#Fork
+
+A few modifications were made due to deprecations in numpy as well as some logic issues in the byte tracker.
+
 # bytetrack-standalone
 
 [ByteTrack](https://github.com/ifzhang/ByteTrack) is a simple and amazing new popular SOTA method. The source code
